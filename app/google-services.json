@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729251789387",
+    "project_id": "fito-c3b5b",
+    "storage_bucket": "fito-c3b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729251789387:android:1c290c076ce4e7fd8d6bce",
+        "android_client_info": {
+          "package_name": "com.example.fito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729251789387-llj0i2sp12j94l6h4g6c6s1uvi5l2b7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoAY64IhYluoIBsLYMvD444Ngz-1PJaNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729251789387-llj0i2sp12j94l6h4g6c6s1uvi5l2b7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
